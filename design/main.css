@@ -20,7 +20,7 @@ body {
 	font-family: sans-serif;
 	color: #fff;
 	text-align: center;
-	background-image: url('./image/bgbg.jpg');
+	background-image: url('../image/bgbg.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
