@@ -42,7 +42,7 @@ body > *:not(.fixedmenu) {position: relative;}
 	height: 60px;
 	}
 .innermenu {
-	top: 64px;
+	top: 29px;
 	left: 4px;
 	text-align: center;
 	position: fixed;
