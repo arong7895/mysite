@@ -45,7 +45,7 @@ body > *:not(.fixedmenu){
 }
 .innermenu {
 	height: 100px;
-	text-align: right;
+	text-align: center;
 	display: table-cell;
 	vertical-align: middle;
 }
