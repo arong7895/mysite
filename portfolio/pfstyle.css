@@ -17,12 +17,7 @@ body {
 	overflow-x:hidden;
 	word-break:normal;
 }
-body > *:not(.fixedmenu){
-	position:relative
-	}
-	
-	
-	
+body > *:not(.fixedmenu){ position:relative }
 .fixedmenu {
 	top: 0;
 	left: 0;
