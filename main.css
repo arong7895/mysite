@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Do+Hyeon&subset=korean');
 ::selection {
 	color: #ffffff;
-	background-color: rgb(146, 167, 210);
+	background-color: red;
 }
 ::moz-selection {
 	color: #ffffff;
